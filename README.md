@@ -92,7 +92,7 @@ maka izinkan aku lulus bersamamu, bukan tanpamu..
   </section>
 
   <section class="gallery">
-    <img src="WhatsApp Image 2025-05-25 at 22.13.57 (1).jpeg" alt="WhatsApp Image 2025-05-25 at 22.13.57 (1)
+    <img src="WhatsApp Image 2025-05-25 at 22.13.57 (1).jpeg" alt="Foto 1">
     <img src="WhatsApp Image 2025-05-25 at 22.13.57.jpeg" alt="Foto 2">
     <img src="WhatsApp Image 2025-05-25 at 22.13.56 (1).jpeg" alt="Foto 3">
     <img src="WhatsApp Image 2025-05-25 at 22.13.56.jpeg" alt="Foto 4">
